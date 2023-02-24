@@ -1,5 +1,5 @@
 
-<div class="width: 100%; height: 100%;">
+<div class="text-align:center">
 
 <div style="display: flex; align-items: center; justify-content: center">
 
@@ -25,7 +25,7 @@
 
 </div><br/>
 
-<div style="display: flex; align-items: center; justify-content: center">
+<div style="text-align:center">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
