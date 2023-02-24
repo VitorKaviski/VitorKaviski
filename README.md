@@ -1,11 +1,6 @@
 
-<style>
-    .container {
-        width: 100%;
-        height: 100%;
-    }
-</style>
-<div class="container">
+<div class="width: 100%; height: 100%;">
+
 <div style="display: flex; align-items: center; justify-content: center">
 
 ### Hello! I'm Vitor Kaviski 😁
