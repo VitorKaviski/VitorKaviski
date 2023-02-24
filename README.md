@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center; justify-content: center">
 
 ### Hello! I'm Vitor Kaviski 😁
-##
+
 </div><br/>
 
 <div style="display: flex; align-items: center; justify-content: center">
