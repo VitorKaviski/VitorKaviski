@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center; justify-content: center">
 
 ### Hello! I'm Vitor Kaviski 😁
-###
+##
 </div><br/>
 
 <div style="display: flex; align-items: center; justify-content: center">
@@ -114,6 +114,10 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+
+</div><br/>
+
+<div style="display: flex; align-items: center; justify-content: center">
   <img align="center" alt="js" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -131,6 +135,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitorkaviski@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](whatsapp://send/?text=Ol%C3%A1!%20Encontrei%20seu%20portf%C3%B3lio%20e%20gostaria%20de%20dizer%20que%20...&phone=+554188626822)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7784930460694957369)
+
+</div><br/>
+
+<div style="display: flex; align-items: center; justify-content: center">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vitor-kaviski/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaviski_vitor/)
